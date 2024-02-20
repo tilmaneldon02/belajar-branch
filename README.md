@@ -1,2 +1,2 @@
 # repository untuk belajar branch baru
-GitHub itu asyik *lho!*
+Belajar GitHub di Dicoding itu seru!
